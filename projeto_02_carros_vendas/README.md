@@ -1,0 +1,1 @@
+Dataset 'bmw global automotive sales' que pode ser encontrado em: https://www.kaggle.com/datasets/dmahajanbe23/bmw-global-automotive-sales
